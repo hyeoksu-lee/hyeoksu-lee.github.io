@@ -18,3 +18,5 @@ _Summa Cum Laude_
 * * *
 
 ## Projects
+
+<img src="{{site.logo | relative_url}}" alt="Hyeoksu Lee" />
