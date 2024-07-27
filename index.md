@@ -18,6 +18,3 @@ B.S. in [Naval Architecture and Ocean Engineering](https://naoe.snu.ac.kr) @[Seo
 
 ## Research experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
