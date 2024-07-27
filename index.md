@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu). My current research interest lies in computational fluid dynamics, multiphase flows, and cavitation. Previously, I worked on various topics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization, and ship hydrodynamics.
+I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu). My current research interest lies in computational fluid dynamics, multiphase flows, and cavitation. Previously, I worked on various topics in fluid dynamics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization, and ship hydrodynamics.
 
 * * *
 
