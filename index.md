@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu). My current research interest lies in computational fluid dynamics, multiphase flows, and cavitation. Previously, I worked on various topics in fluid dynamics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization and ship hydrodynamics.
+I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu). My current research interest lies in computational fluid dynamics, multiphase flows, cavitation and high performance computing. Previously, I worked on various topics in fluid dynamics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization and ship hydrodynamics.
 
 * * *
 
@@ -37,3 +37,23 @@ _Summa Cum Laude_
         <u>Hyeoksu Lee</u>, Sehyung Oh and Haecheon Choi, "Machine-learning based prediction of aerodynamic performance of a flapping wing in hover," <em>2020 Korean Society of Mechanical Engineers Annual Conference</em>, Online, December 16-18, 2020
     </div>
 </div>
+
+## Honors and Awards
+
+* **Allan Acosta Endowed Graduate Fellowship**<br>
+_California Institute of Technology_, 2022
+
+* **KISTI Supercomputing Award**<br>
+_Korean Society for Computational Fluids Engineering_, 2021
+
+* **Certificate of Commendation**<br>
+_Korea Maritime Transportation Safety Authority_, 2020
+
+* **Excellence Award** in EDISON CFD Software Challenge<br>
+_Korea Institute of Science and Technology Information_, 2019
+
+* **National Scholarship for Science and Engineering**<br>
+_Korea Student Aid Foundation_, Spring 2016 - Fall 2019
+
+* **Eminence Scholarship**<br>
+_Seoul National University_, Fall 2014 - Fall 2015
