@@ -24,7 +24,7 @@ _Summa Cum Laude_
         <img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
     </div>
     <div class="second-column">
-        **Hyeoksu Lee**, Spencer Bryngelson and Tim Colonius, "Cavitation inception in a turbulent mixing layer," _2023 American Physical Society Division of Fluid Dynamics_, Washington DC, USA, November 19-21, 2023
+        <strong>Hyeoksu Lee</strong>, Spencer Bryngelson and Tim Colonius, "Cavitation inception in a turbulent mixing layer," <em>2023 American Physical Society Division of Fluid Dynamics</em>, Washington DC, USA, November 19-21, 2023
     </div>
 </div>
 
@@ -33,7 +33,7 @@ _Summa Cum Laude_
         <img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
     </div>
     <div class="second-column">
-        **Hyeoksu Lee**, Sehyung Oh and Haecheon Choi, "Machine-learning based optimization of the wing kinematics and geometry of a hovering flapping flight," _2021 Korean Society of Mechanical Engineers Annual Conference_, Gwangju, Korea, November 3-6, 2021<br>
-        **Hyeoksu Lee**, Sehyung Oh and Haecheon Choi, "Machine-learning based prediction of aerodynamic performance of a flapping wing in hover," _2020 Korean Society of Mechanical Engineers Annual Conference_, Online, December 16-18, 2020
+        <strong>Hyeoksu Lee</strong>, Sehyung Oh and Haecheon Choi, "Machine-learning based optimization of the wing kinematics and geometry of a hovering flapping flight," <em>2021 Korean Society of Mechanical Engineers Annual Conference</em>, Gwangju, Korea, November 3-6, 2021<br>
+        <strong>Hyeoksu Lee</strong>, Sehyung Oh and Haecheon Choi, "Machine-learning based prediction of aerodynamic performance of a flapping wing in hover," <em>2020 Korean Society of Mechanical Engineers Annual Conference</em>, Online, December 16-18, 2020
     </div>
 </div>
