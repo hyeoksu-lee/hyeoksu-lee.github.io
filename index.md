@@ -28,13 +28,12 @@ _Summa Cum Laude_
     </div>
 </div>
 
-
 <div class="container">
     <div class="first-column">
         <img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
     </div>
     <div class="second-column">
-        <strong>Hyeoksu Lee</strong>, Sehyung Oh and Haecheon Choi, "Machine-learning based optimization of the wing kinematics and geometry of a hovering flapping flight," <em>2021 Korean Society of Mechanical Engineers Annual Conference</em>, Gwangju, Korea, November 3-6, 2021<br>
-        <strong>Hyeoksu Lee</strong>, Sehyung Oh and Haecheon Choi, "Machine-learning based prediction of aerodynamic performance of a flapping wing in hover," <em>2020 Korean Society of Mechanical Engineers Annual Conference</em>, Online, December 16-18, 2020
+        <u>Hyeoksu Lee</u>, Sehyung Oh and Haecheon Choi, "Machine-learning based optimization of the wing kinematics and geometry of a hovering flapping flight," <em>2021 Korean Society of Mechanical Engineers Annual Conference</em>, Gwangju, Korea, November 3-6, 2021<br><br>
+        <u>Hyeoksu Lee</u>, Sehyung Oh and Haecheon Choi, "Machine-learning based prediction of aerodynamic performance of a flapping wing in hover," <em>2020 Korean Society of Mechanical Engineers Annual Conference</em>, Online, December 16-18, 2020
     </div>
 </div>
