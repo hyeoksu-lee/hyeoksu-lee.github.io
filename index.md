@@ -2,16 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a Ph.D. candidate advised by Prof. Tim Colonius at the Computational and Data-Driven Fluid Dynamics Lab. My current research interest lies in computational fluid dynamics, multiphase flows, and cavitation. Previously, I worked on various topics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization, and ship hydrodynamics.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* * *
 
 ## Education
 
-M.S. in Mechanical Engineering, Seoul National University
-B.S. in Naval Architecture and Ocean Engineering, Seoul National University
+Ph.D Candidate in [Mechanical Engineering](https://mce.caltech.edu), [California Institute of Technology](https://www.caltech.edu) 
+
+M.S. in [Mechanical Engineering](https://me.snu.ac.kr), [Seoul National University](https://www.snu.ac.kr)
+
+B.S. in [Naval Architecture and Ocean Engineering](https://naoe.snu.ac.kr), [Seoul National University](https://www.snu.ac.kr)
 
 * * *
 
@@ -20,11 +21,3 @@ B.S. in Naval Architecture and Ocean Engineering, Seoul National University
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
