@@ -19,6 +19,6 @@ _Summa Cum Laude_
 
 ## Projects
 
-<img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:200px;" />
+<img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
 
-<img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:200px;" />
+<img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
