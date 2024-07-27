@@ -19,7 +19,8 @@ _Summa Cum Laude_
 
 ## Research Experience
 
-[Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu) @[California Institute of Technology](https://www.caltech.edu) <br>
+[Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu) <br>
+_[California Institute of Technology](https://www.caltech.edu)_<br>
 Advisor: Prof. Tim Colonius <br>
 <div class="container">
     <div class="first-column">
@@ -30,7 +31,8 @@ Advisor: Prof. Tim Colonius <br>
     </div>
 </div>
 
-[Turbulence, Flow Control & CFD Lab](https://tfc.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)<br>
+[Turbulence, Flow Control & CFD Lab](https://tfc.snu.ac.kr)<br>
+_[Seoul National University](https://www.snu.ac.kr)_<br>
 Advisor: Prof. Haecheon Choi<br>
 <div class="container">
     <div class="first-column">
@@ -42,7 +44,8 @@ Advisor: Prof. Haecheon Choi<br>
     </div>
 </div>
 
-[Seoul National University Towing Tank Lab](https://snutt.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)<br>
+[Seoul National University Towing Tank Lab](https://snutt.snu.ac.kr)<br>
+_[Seoul National University](https://www.snu.ac.kr)_<br>
 Advisor: Prof. Shin Hyung Rhee<br>
 <div class="container">
     <div class="first-column">
