@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu). My current research interest lies in computational fluid dynamics, multiphase flows, cavitation and high performance computing. Previously, I worked on various topics in fluid dynamics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization and ship hydrodynamics.
+I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu). My current research interest lies in computational fluid dynamics, multiphase flows, cavitation and high performance computing. Previously, I worked on various topics in fluid dynamics including flapping wing aerodynamics, machine-learning-based aerodynmic modeling and optimization and marine hydrodynamics.
 
 * * *
 
@@ -19,6 +19,8 @@ _Summa Cum Laude_
 
 ## Research Experience
 
+Computational and Data-Driven Fluid Dynamics Lab @California Institute of Technology
+(Advisor: Prof. Tim Colonius)
 <div class="container">
     <div class="first-column">
         <img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
@@ -28,6 +30,8 @@ _Summa Cum Laude_
     </div>
 </div>
 
+Turbulence, Flow Control & CFD Lab @Seoul National University
+(Advisor: Prof. Haecheon Choi)
 <div class="container">
     <div class="first-column">
         <img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
@@ -38,6 +42,8 @@ _Summa Cum Laude_
     </div>
 </div>
 
+Seoul National University Towing Tank Lab @Seoul National University
+(Advisor: Prof. Shin Hyung Rhee)
 <div class="container">
     <div class="first-column">
         <img src="assets/img/synthetic_jet.png" alt="synthetic jet" style="width:200px;height:auto;" />
