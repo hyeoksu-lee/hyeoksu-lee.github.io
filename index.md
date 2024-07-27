@@ -19,4 +19,6 @@ _Summa Cum Laude_
 
 ## Projects
 
-<img src="assets/img/flapping.gif" alt="flapping" /> Machine-learning-based prediction and optimization of flapping wing kinematics and geometry
+<img src="assets/img/cavitation.png" alt="cavitation" style="width:48px;height:48px;" />
+
+<img src="assets/img/flapping.gif" alt="flapping" style="width:48px;height:48px;" />
