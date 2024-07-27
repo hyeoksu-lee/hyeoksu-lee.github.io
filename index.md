@@ -8,11 +8,11 @@ I am a Ph.D. candidate advised by Prof. Tim Colonius at the [Computational and D
 
 ## Education
 
-Ph.D Candidate in [Mechanical Engineering](https://mce.caltech.edu), [California Institute of Technology](https://www.caltech.edu) 
+Ph.D Candidate in [Mechanical Engineering](https://mce.caltech.edu) @[California Institute of Technology](https://www.caltech.edu) 
 
-M.S. in [Mechanical Engineering](https://me.snu.ac.kr), [Seoul National University](https://www.snu.ac.kr)
+M.S. in [Mechanical Engineering](https://me.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)
 
-B.S. in [Naval Architecture and Ocean Engineering](https://naoe.snu.ac.kr), [Seoul National University](https://www.snu.ac.kr)
+B.S. in [Naval Architecture and Ocean Engineering](https://naoe.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)
 
 * * *
 
