@@ -19,8 +19,8 @@ _Summa Cum Laude_
 
 ## Research Experience
 
-Computational and Data-Driven Fluid Dynamics Lab @California Institute of Technology
-(Advisor: Prof. Tim Colonius)
+[Computational and Data-Driven Fluid Dynamics Lab](https://colonius.caltech.edu) @[California Institute of Technology](https://www.caltech.edu) <br>
+Advisor: Prof. Tim Colonius <br>
 <div class="container">
     <div class="first-column">
         <img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
@@ -30,8 +30,8 @@ Computational and Data-Driven Fluid Dynamics Lab @California Institute of Techno
     </div>
 </div>
 
-Turbulence, Flow Control & CFD Lab @Seoul National University
-(Advisor: Prof. Haecheon Choi)
+[Turbulence, Flow Control & CFD Lab](https://tfc.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)<br>
+Advisor: Prof. Haecheon Choi<br>
 <div class="container">
     <div class="first-column">
         <img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
@@ -42,8 +42,8 @@ Turbulence, Flow Control & CFD Lab @Seoul National University
     </div>
 </div>
 
-Seoul National University Towing Tank Lab @Seoul National University
-(Advisor: Prof. Shin Hyung Rhee)
+[Seoul National University Towing Tank Lab](https://snutt.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)<br>
+Advisor: Prof. Shin Hyung Rhee<br>
 <div class="container">
     <div class="first-column">
         <img src="assets/img/synthetic_jet.png" alt="synthetic jet" style="width:200px;height:auto;" />
