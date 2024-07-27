@@ -38,6 +38,8 @@ _Summa Cum Laude_
     </div>
 </div>
 
+* * *
+
 ## Honors and Awards
 
 * **Allan Acosta Endowed Graduate Fellowship**<br>
