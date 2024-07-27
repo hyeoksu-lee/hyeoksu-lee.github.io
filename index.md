@@ -19,6 +19,23 @@ _Summa Cum Laude_
 
 ## Projects
 
-<img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
+<div class="container">
+    <div class="first-column">
+        <img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
+    </div>
+    <div class="second-column">
+        Cavitation inception in turbulent shear flows
+    </div>
+</div>
 
-<img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
+<div class="container">
+    <div class="first-column">
+        <img src="assets/img/flapping.gif" alt="flapping" style="width:200px;height:auto;" />
+    </div>
+    <div class="second-column">
+        Machine-learning model for flapping wing aerodynamics
+    </div>
+</div>
+
+
+

@@ -72,6 +72,22 @@ code, pre {
   color:#333;
 }
 
+.container {
+  width: 100%;
+  overflow: auto;
+}
+      
+.first-column {
+  float: left;
+  width: 30%;
+}
+      
+      /* Styling for the right column */
+.second-column {
+  float: right;
+  width: 70%;
+}
+
 pre {
   padding:8px 15px;
   background: #f8f8f8;
