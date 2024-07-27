@@ -24,9 +24,10 @@ _Summa Cum Laude_
         <img src="assets/img/cavitation.png" alt="cavitation" style="width:200px;height:auto;" />
     </div>
     <div class="second-column">
-        <strong>Hyeoksu Lee</strong>, Spencer Bryngelson and Tim Colonius, "Cavitation inception in a turbulent mixing layer," <em>2023 American Physical Society Division of Fluid Dynamics</em>, Washington DC, USA, November 19-21, 2023
+        <u>Hyeoksu Lee</u>, Spencer Bryngelson and Tim Colonius, "Cavitation inception in a turbulent mixing layer," <em>2023 American Physical Society Division of Fluid Dynamics</em>, Washington DC, USA, November 19-21, 2023
     </div>
 </div>
+
 
 <div class="container">
     <div class="first-column">
