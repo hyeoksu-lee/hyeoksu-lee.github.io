@@ -13,8 +13,8 @@ Ph.D Candidate in [Mechanical Engineering](https://mce.caltech.edu) @[California
 M.S. in [Mechanical Engineering](https://me.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)
 
 B.S. in [Naval Architecture and Ocean Engineering](https://naoe.snu.ac.kr) @[Seoul National University](https://www.snu.ac.kr)
+_Summa Cum Laude_
 
 * * *
 
 ## Projects
-
