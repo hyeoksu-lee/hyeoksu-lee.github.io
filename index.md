@@ -16,5 +16,5 @@ B.S. in [Naval Architecture and Ocean Engineering](https://naoe.snu.ac.kr) @[Seo
 
 * * *
 
-## Research experience
+## Research Experience
 
