@@ -69,7 +69,7 @@ _California Institute of Technology_, 2022
 * **KISTI Supercomputing Award**<br>
 _Korean Society for Computational Fluids Engineering_, 2021
 
-* **Certificate of Commendation**
+* **Certificate of Commendation**<br>
 _Korea Maritime Transportation Safety Authority_, 2020
 
 * **Excellence Award** in EDISON CFD Software Challenge<br>
