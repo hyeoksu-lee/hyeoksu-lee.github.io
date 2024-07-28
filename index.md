@@ -57,6 +57,7 @@ Advisor: Prof. Shin Hyung Rhee<br>
         <u>Hyeoksu Lee</u>, Jinkwan Jang, Woochan Seok, Hong Gu Yeo and Shin Hyung Rhee, "Design and analysis of the synthetic jet thruster applying the propulsion of jellyfish," <em>Journal of Computational Fluids Engineering</em>, Vol. 25, pp. 112-119, 2020
     </div>
 </div>
+<br>
 
 * * *
 
