@@ -30,6 +30,7 @@ Advisor: Prof. Tim Colonius <br>
         <u>Hyeoksu Lee</u>, Spencer Bryngelson and Tim Colonius, "Cavitation inception in a turbulent mixing layer," <em>2023 American Physical Society Division of Fluid Dynamics</em>, Washington DC, USA, November 19-21, 2023
     </div>
 </div>
+<br>
 
 [Turbulence, Flow Control & CFD Lab](https://tfc.snu.ac.kr)<br>
 [Seoul National University](https://www.snu.ac.kr)<br>
@@ -43,6 +44,7 @@ Advisor: Prof. Haecheon Choi<br>
         <u>Hyeoksu Lee</u>, Sehyung Oh and Haecheon Choi, "Machine-learning based prediction of aerodynamic performance of a flapping wing in hover," <em>2020 Korean Society of Mechanical Engineers Annual Conference</em>, Online, December 16-18, 2020
     </div>
 </div>
+<br>
 
 [Seoul National University Towing Tank Lab](https://snutt.snu.ac.kr)<br>
 [Seoul National University](https://www.snu.ac.kr)<br>
