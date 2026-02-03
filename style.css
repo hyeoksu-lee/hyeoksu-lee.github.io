@@ -1,13 +1,13 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   line-height: 1.6;
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 2rem;
-  color: #333;
+  color: hsl(28, 100%, 25%);
 }
 header { border-bottom: 1px solid #eee; margin-bottom: 2rem; }
-a { color: #007bff; text-decoration: none; }
+a { color: #955400; text-decoration: none; }
 
 /* Header Container */
 .site-header {
