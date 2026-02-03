@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ site.title }}</title>
+  
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-T8LKLDWM2F"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -7,55 +11,54 @@
     gtag('js', new Date());
     gtag('config', 'G-T8LKLDWM2F');
   </script>
-  
-  <head>
-    <style>
-      /* Changes the main title (H1) color */
-      h1 {
-        color: #FF6C0C; /* Caltech Orange */
-      }
 
-      /* Changes all link text */
-      a {
-        color: #00356b; /* Deep Blue */
-        text-decoration: none; /* Removes underline by default */
-      }
+  <style>
+    /* Force the colors using !important to override any background themes */
+    h1 {
+      color: #FF6C0C !important; /* Caltech Orange */
+    }
 
-      /* Changes link color when you hover over it */
-      a:hover {
-        color: #FF6C0C;
-        text-decoration: underline;
-      }
+    a {
+      color: #00356b !important; /* Deep Blue */
+      text-decoration: none;
+    }
 
-      /* Optional: Specific styling for the email text */
-      .site-nav {
-        color: #555; 
-        font-size: 0.9rem;
-      }
-    </style>
-  </head>
+    a:hover {
+      color: #FF6C0C !important;
+      text-decoration: underline;
+    }
 
-  <body>
-    <header>
-      <h1>{{ site.title }}</h1>
+    /* Keep the body readable */
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+      line-height: 1.6;
+    }
 
-      <div class="header-right">
-        <img src="/assets/profile.jpg" alt="Profile Photo" class="profile-photo">
-        <nav class="site-nav">
-          <a href="{{ site.github.owner_url }}">GitHub</a> /
-          <a href="https://www.linkedin.com/in/hyeoksu-lee-759778130/">Linkedin</a> /
-          <a href="https://scholar.google.com/citations?user=i6rPvsgAAAAJ&hl=en">Google Scholar</a> <br>
-          Email: hyeoksu@caltech.edu
-        </nav>
-      </div>
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #eee;
+      margin-bottom: 2rem;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
     </header>
 
-    <main>
-      {{ content }}
-    </main>
+  <main>
+    {{ content }}
+  </main>
 
-    <footer>
-      <p>Last updated: Feb 2026 {{ site.title }}</p>
-    </footer>
-  </body>
+  <footer>
+    <hr>
+    <p>Last updated: Feb 2026 | {{ site.title }}</p>
+  </footer>
+</body>
 </html>
