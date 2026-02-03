@@ -1,4 +1,4 @@
-body {
+/* body {
   font-family: sans-serif;
   line-height: 1.6;
   max-width: 600px;
@@ -6,7 +6,7 @@ body {
   padding: 2rem;
   color: hsl(0, 0%, 0%);
 }
-/* header { border-bottom: 1px solid #eee; margin-bottom: 2rem; } */
+header { border-bottom: 1px solid #eee; margin-bottom: 2rem; }
 a { color: #955400;}
 h1 {color: #000000;}
-.footer { display: none; }
+.footer { display: none; } */
