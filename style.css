@@ -8,3 +8,42 @@ body {
 }
 header { border-bottom: 1px solid #eee; margin-bottom: 2rem; }
 a { color: #007bff; text-decoration: none; }
+
+/* Header Container */
+.site-header {
+  display: flex;
+  justify-content: space-between; /* Pushes title left, div right */
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+/* Right Side Group */
+.header-right {
+  display: flex;
+  flex-direction: column; /* Stacks photo above links */
+  align-items: flex-end;   /* Aligns them to the right edge */
+}
+
+/* Profile Photo Styling */
+.profile-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; /* Makes it circular */
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+  border: 2px solid #eee;
+}
+
+/* Navigation Links */
+.site-nav a {
+  margin-left: 15px;
+  font-weight: 500;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
