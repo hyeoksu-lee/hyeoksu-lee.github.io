@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T8LKLDWM2F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T8LKLDWM2F');
+  </script>
+  
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+
+      <p class="view">
+        <a href="{{ site.github.owner_url }}">GitHub</a> /
+        <a href="https://www.linkedin.com/in/hyeoksu-lee-759778130/">Linkedin</a> /
+        <a href="https://scholar.google.com/citations?user=i6rPvsgAAAAJ&hl=en">Google Scholar</a> <br>
+        Email: hyeoksu@caltech.edu
+      </p>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; Last updated: Feb 2026 {{ site.title }}</p>
+    </footer>
+  </body>
+</html>
