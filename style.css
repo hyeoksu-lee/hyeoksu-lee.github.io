@@ -1,10 +1,11 @@
+title {color: hsl(0, 0%, 0%);}
 body {
   font-family: sans-serif;
   line-height: 1.6;
   max-width: 600px;
   margin: 0 auto;
   padding: 2rem;
-  color: hsl(28, 100%, 25%);
+  color: hsl(0, 0%, 0%);
 }
 header { border-bottom: 1px solid #eee; margin-bottom: 2rem; }
 a { color: #955400; text-decoration: none; }
