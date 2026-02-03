@@ -1,9 +1,16 @@
 title: Hyeoksu Lee
-email: hyeoksu@caltech.edu
+
+logo: /assets/img/profile-homepage.jpg
+
 description: Computational Physics @ Caltech
-baseurl: "" 
-url: "https://hyeoksu-lee.github.io"
+
+show_downloads: false
+
+google_analytics:
+
 theme: jekyll-theme-minimal
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
