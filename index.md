@@ -10,7 +10,7 @@ My current research focuses on developing a numerical solver for compressible mu
 [Jan 2026] Our paper on MFC 5.0 has been accepted for publication in <em><a href="https://doi.org/10.1016/j.cpc.2026.110055">Computer Physics Communications</a></em><br>
 [Mar 2025] Our paper on MFC 5.0 is now available on <em><a href="https://arxiv.org/abs/2503.07953">arXiv</a></em> <br>
 [Mar 2025] Our work on NN-based flapping wing optimization was featured by <em><a href="https://doi.org/10.1063/10.0036328">Scilight</a></em> <br>
-[Mar 2025] One first-author paper was published on <em><a href="https://doi.org/10.1063/5.0256748">Physics of Fluids</a></em> as <b><mark>Featured Articles</mark></b> <br>
+[Mar 2025] One first-author paper was published on <em><a href="https://doi.org/10.1063/5.0256748">Physics of Fluids</a></em> as <b><mark class="red">Featured Articles</mark></b> <br>
 
 * * *
 
@@ -40,7 +40,7 @@ _Summa Cum Laude_
 
 B. Wilfong, H. Le Berre, A. Radhakrishnan, A. Gupta, D. Vaca-Revelo, D. Adam, H. Yu, <u><b>H. Lee</b></u>, J. R. Chreim, M. Carcana Barbosa, Y. Zhang, E. Cisneros-Garibay, A. Gnanaskandan, M. Rodriguez Jr., R. D. Budiardja, S. Abbott, T. Colonius and S. H. Bryngelson, "<a href="https://doi.org/10.1016/j.cpc.2026.110055">MFC 5.0: An exascale many-physics flow solver</a>," <em>Computer Physics Communications</em>, 110055, 2026 <br><br> 
 <u><b>H. Lee</b></u>, S. Oh and H. Choi, "<a href="https://doi.org/10.1063/5.0256748">Neural-network based optimization of the wing kinematics and geometry of a hovering flapping flight</a>," <em>Physics of Fluids</em>, 37(3), 031918, 2025 <br> 
-*selected as <b><mark>Featured Articles</mark></b> <br>
+*selected as <b><mark class="red">Featured Articles</mark></b> <br>
 *featured by <em><a href="https://doi.org/10.1063/10.0036328">Scilight</a></em><br><br>
 
 * * *
