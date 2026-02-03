@@ -3,5 +3,7 @@ email: hyeoksu@caltech.edu
 description: Computational Physics @ Caltech
 baseurl: "" 
 url: "https://hyeoksu-lee.github.io"
-theme: []
-remote_theme: []
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
