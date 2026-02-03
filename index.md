@@ -7,7 +7,7 @@ I'm a PhD candidate at Caltech, passionate about leveraging numerical modeling, 
 My current research focuses on developing a numerical solver for compressible multi-phase turbulent flows that scales to tens of thousands of GPUs on exascale supercomputers. Previously, I worked on developing neural networks for modeling and optimization of insect-inspired flapping wing aerodynamics.
 
 🎉News<br>
-[Jan 2026] Our paper on MFC 5.0 has been accepted for publication in <em><a href="https://doi.org/10.1016/j.cpc.2026.110055">Computer Physics Communications</a></em><br>!
+[Jan 2026] Our paper on MFC 5.0 has been accepted for publication in <em><a href="https://doi.org/10.1016/j.cpc.2026.110055">Computer Physics Communications</a></em><br>
 [Mar 2025] Our paper on MFC 5.0 is now available on <em><a href="https://arxiv.org/abs/2503.07953">arXiv</a></em> <br>
 [Mar 2025] Our work on NN-based flapping wing optimization was featured by <em><a href="https://doi.org/10.1063/10.0036328">Scilight</a></em> <br>
 [Mar 2025] One first-author paper was published on <em><a href="https://doi.org/10.1063/5.0256748">Physics of Fluids</a></em> as <b><mark class="red">Featured Articles</mark></b> <br>
