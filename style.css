@@ -9,9 +9,7 @@ body {
 header { border-bottom: 1px solid #eee; margin-bottom: 2rem; }
 a { color: #955400; text-decoration: none; }
 
-.name {
-  color: hsl(0, 0%, 0%);
-}
+h1 {color: hsl(0, 0%, 0%);}
 
 /* Header Container */
 .site-header {
