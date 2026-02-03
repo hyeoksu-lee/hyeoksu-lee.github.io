@@ -74,7 +74,3 @@ _Korea Student Aid Foundation_, Spring 2016 - Fall 2019
 
 **Eminence Scholarship**<br>
 _Seoul National University_, Fall 2014 - Fall 2015
-
-* * * 
-
-Last updated: Feb 2026

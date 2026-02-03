@@ -26,29 +26,21 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Hyeoksu Lee" />
-        {% endif %}
+        <img src="{{site.logo | relative_url}}" alt="Hyeoksu Lee" />
 
-        {% if site.github.is_user_page %}
         <p class="view">
           <a href="{{ site.github.owner_url }}">GitHub</a> /
           <a href="https://www.linkedin.com/in/hyeoksu-lee-759778130/">Linkedin</a> /
           <a href="https://scholar.google.com/citations?user=i6rPvsgAAAAJ&hl=en">Google Scholar</a> <br>
-          Email: hyeoksu@caltech.edu</p>
-        {% endif %}
-
+          Email: hyeoksu@caltech.edu
+        </p>
       </header>
-
-      <navbar>
-        <h2><a class="blog" href="/blog/list.html">Blog</a></h2>
-      </navbar>
 
       <div class="scroll-container">
         {{ content }}
 
         <div class="footer">
-          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          <p>Last updated: Feb 2026</p>
         </div>
       </div>
     </div>

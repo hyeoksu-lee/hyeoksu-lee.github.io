@@ -118,9 +118,9 @@ navbar {
 .scroll-container {
   margin-top: 0px; /* Adjust this to match the height of the header */
   height: calc(90vh - 0px); /* Makes the container fill the screen below the header */
-  width: 650px;
+  width: 750px;
   overflow-y: auto; /* Enables vertical scrolling */
-  overflow-x: hidden;
+  overflow-x: auto;
   float:right;
   scrollbar-width: none; 
   flex: 1;
