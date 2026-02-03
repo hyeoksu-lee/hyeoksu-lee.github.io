@@ -49,6 +49,6 @@ a { color: #007bff; text-decoration: none; }
 }
 
 /* Hides the automatic GitHub Pages footer */
-.footer.border-top.border-gray-light {
+.footer {
     display: none;
 }
