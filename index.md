@@ -47,6 +47,7 @@ B. Wilfong, H. Le Berre, A. Radhakrishnan, A. Gupta, D. Vaca-Revelo, D. Adam, H.
 
 ### Talks
 
+<u><b>H. Lee</b></u>, J. R. Chreim and T. Colonius, "Triggering phase change in interface-capturing schemes based on subgrid bubble models," <em>20th U.S. National Congress on Theoretical and Applied Mechanics</em>, Pasadena, CA, USA, June 21-25, 2026, Toulouse, France, May 12-16, 2025 <br><br>
 <u><b>H. Lee</b></u> and T. Colonius, "Polydisperse bubble dynamics during cavitation inception in turbulent shear flows," <em>12th International Conference on Multiphase Flow</em>, Toulouse, France, May 12-16, 2025 <br><br>
 <u><b>H. Lee</b></u> and T. Colonius, "<a href="https://meetings.aps.org/Meeting/DFD24/Session/R21.6">One-way and two-way coupled simulations of cavitation inception in turbulent shear flows with polydisperse bubbles</a>," <em>2024 American Physical Society Division of Fluid Dynamics</em>, Salt Lake City, Utah, USA, November 24-26, 2024 <br><br>
 <u><b>H. Lee</b></u>, S. H. Bryngelson and T. Colonius, "<a href="https://meetings.aps.org/Meeting/DFD23/Session/L36.6">Cavitation inception in a turbulent mixing layer</a>," <em>2023 American Physical Society Division of Fluid Dynamics</em>, Washington DC, USA, November 19-21, 2023 <br><br>
